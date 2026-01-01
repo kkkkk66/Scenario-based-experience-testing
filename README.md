@@ -1,4 +1,4 @@
-# Scenario-based-experience-testing
+# Scenario-based-experiential-testing
 This is a dataset for scenario-based experiential testing, containing two datasets: one is a scenario extraction dataset, and the other is a scenario classification dataset.
 
 Please email 2120240798@mail.nankai.edu.cn for access to the complete dataset.
